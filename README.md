@@ -1,6 +1,7 @@
 ## Hi there! :blush:
 ### I am Ati. :wave: Welcome to my github portfolio where I post my **projects** about data science and data analysis!
 
+![image](https://user-images.githubusercontent.com/89580600/130992235-05529e6a-abe7-4484-ab50-e320870edcff.png)
 
 <!--
 **SomodiAttila/SomodiAttila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
