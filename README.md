@@ -1,5 +1,5 @@
-## Hi there! :blush:
-### I am Ati. :wave: Welcome to my github portfolio where I post my **projects** about data science and data analysis!
+### Hi there! :blush:
+ I am Ati. :wave: Welcome to my github portfolio where I post my **projects** about data science and data analysis!
 
 ![image](https://user-images.githubusercontent.com/89580600/130992650-b31a9f97-e77a-489c-8a59-99b9e8296f62.png)
 
